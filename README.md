@@ -1,6 +1,6 @@
 # Currency-Converter
 
-Welcome to our Currency Converter! This tool allows you to effortlessly convert between different currencies around the world. Powered by HTML, CSS, and JavaScript, our converter provides real-time exchange rates sourced from reliable APIs. To enhance your experience, we also display country flags alongside each currency, making it easier to identify and select the currencies you need.
+Welcome to our Currency Converter! This tool allows you to effortlessly convert between different currencies around the world. Powered by HTML, CSS, and JavaScript, our converter provides real-time exchange rates sourced from reliable APIs. To enhance your experience, we also display country flags alongside each currency, making it easier to identify and select the currencies you need.I have used the Exchange rate data from @fawazahmed0.
 
 Start exploring global currencies and their values with just a few clicks!
 
