@@ -9,5 +9,5 @@ Start exploring global currencies and their values with just a few clicks!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
-![Currency Converter](\Screenshot 2024-06-21 122443.png)
+![Currency Converter](https://github.com/Vaibhav15Rj/Currency-Converter/blob/main/Screenshot%202024-06-21%20122443.png)
 
